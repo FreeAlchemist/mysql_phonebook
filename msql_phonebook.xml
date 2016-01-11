@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactlist>
+	<contact id="1">
+		<fio>
+			<lastname>Петров</lastname>
+			<firstname>Алексей</firstname>
+			<surname>Сидорович</surname>
+		<phone>89995554433</phone></fio>
+		<phone>89995554433</phone>
+		<birthdate>
+			<day>01</day>
+			<month>02</month>
+			<year>1984</year>
+		</birthdate>
+		<adress>
+			<country>Россия</country>
+			<city>Саратов</city>
+		</adress>
+	</contact>
+	<contact id="2">
+		<fio>
+			<lastname>Дубавина</lastname>
+			<firstname>Валентина</firstname>
+			<surname>Сергеевна</surname>
+		<phone>+76667778855</phone></fio>
+		<phone>+76667778855</phone>
+		<birthdate>
+			<day>10</day>
+			<month>01</month>
+			<year>2000</year>
+		</birthdate>
+		<adress>
+			<country>Украина</country>
+			<city>Киев</city>
+		</adress>
+	</contact>
+<contact id="4"><fio><lastname>Скворцов</lastname><firstname>Евгений</firstname><surname>Николаевич</surname><phone>89996669966</phone></fio><phone>89996669966</phone><birthdate><day>09</day><month>09</month><year>1875</year></birthdate><adress><country>Россия</country><city>Ленинград</city></adress></contact><contact id="5"><fio><lastname>Весенний</lastname><firstname>Виталий</firstname><surname>Сергеевич</surname><phone>89990004777</phone></fio><phone>89990004777</phone><birthdate><day></day><month></month><year></year></birthdate><adress><country></country><city></city></adress></contact></contactlist>
