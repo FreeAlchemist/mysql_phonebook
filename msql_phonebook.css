@@ -1,0 +1,7 @@
+table{
+	border:solid 2px Saddlebrown;
+	box-shadow:0 0 5px Sienna;
+	border-radius: 5px;
+}
+tr{background-color: Linen;}
+td{padding: 5px;}
